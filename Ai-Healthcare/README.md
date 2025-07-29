@@ -16,9 +16,3 @@ A robust healthcare solution combining AI, OCR, and modern web frameworks to aut
 - 🤖 Developed ML modules for maternal care, generating **500+ treatment recommendations** with **90% approval rate**.
 - 🔗 Integrated Django APIs with Next.js frontend for a seamless user experience.
 
-## 🚀 Getting Started
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/Deepans2004/IOTAwareScriptCompiler.git
-   cd IOTAwareScriptCompiler
