@@ -3,7 +3,8 @@
 # 🏥 MedPredict
 ### *AI-Powered Healthcare Management System*
 
-<img src="./public/finalDash.png" alt="MedPredict Dashboard" width="800" style="border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.1);" />
+<img width="1913" height="925" alt="finalDash" src="https://github.com/user-attachments/assets/2cbdc621-e7a2-4530-b5b3-44a45a531781" />
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-15.2.1-000000?style=for-the-badge&logo=next.js&logoColor=white" />
