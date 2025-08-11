@@ -191,8 +191,8 @@
       
 ```bash
 # 📥 Clone the repository
-git clone https://github.com/your-username/gehu_hackathon.git
-cd gehu_hackathon
+git clone https://github.com/ujjwaldhami/AI--HealthCare.git
+cd HealthCare-Backend
 
 # 📦 Install dependencies
 npm install
